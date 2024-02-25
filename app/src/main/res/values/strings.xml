@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="main_title">Hypotenuse calc</string>
+    <string name="result_info">Result: &#160;</string>
+    <string name="side_opposite">Side \"Opposite\" </string>
+    <string name="side_adjacent">Side \"Adjacent\" </string>
+    <string name="btn">Calculate!</string>
+</resources>
